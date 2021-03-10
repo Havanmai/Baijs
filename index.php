@@ -1,3 +1,3 @@
 <?php
-include_once('Baijs.html');
+include_once('Registation.html');
 ?>
